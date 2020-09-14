@@ -1,5 +1,5 @@
 Hello, my name is Ellis Madagan. I like working on interesting projects and solving interesting problems.
-- I'm currently working on a side-project that I may eventually open-source.
+- I'm currently working on a SaaS application at a supply chain company.
 - I'm currently learning Java in a back-end web context (I really only used it academically before).
 - I'm looking to collaborate on medical, financial, or defense technology.
 - Fun fact: I once hacked my school's online food ordering system. I think it's still vulnerable.

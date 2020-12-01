@@ -1,8 +1,8 @@
-Hello, my name is Ellis Madagan. I like working on interesting projects and solving interesting problems.
-- I'm currently working on a SaaS application at a supply chain company.
-- I'm currently learning Java in a back-end web context (I really only used it academically before).
-- I'm looking to collaborate on medical, financial, or defense technology.
-- Fun fact: I once hacked my school's online food ordering system. I think it's still vulnerable.
+Hello, I'm Ellis. I enjoy strong coffee, spending time in nature, and writing *insert buzzwords* software. I work for Robots and Pencils as a full-stack developer.
+- 🤖 I work for Robots and Pencils (https://robotsandpencils.com) as a full-stack developer.
+- 🛠 I'm currently working on a full-stack web application (with possibly some mobile development down the road).
+- 🌱 I'm learning Flutter, something somewhat outside of my comfort zone!
+- ⚡ Fun fact: I actually *like* brussel sprouts.
 
 <!--
 **em1382/em1382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ Hello, my name is Ellis Madagan. I like working on interesting projects and solv
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

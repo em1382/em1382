@@ -1,7 +1,4 @@
-Hello, I'm Ellis. I enjoy strong coffee, spending time in nature, and writing (*insert buzzwords*) software. I work for Robots and Pencils as a full-stack developer.
-- 🛠 I'm currently working on a full-stack web application (with possibly some mobile development down the road).
-- 🌱 I'm learning Flutter, something somewhat outside of my comfort zone!
-- ⚡ Fun fact: I actually *like* brussel sprouts.
+Hello, I'm Ellis. I enjoy strong coffee, spending time in nature, and writing (*insert buzzwords*) software. I work for Bit 49 (https://bit49.io) as a software engineer.
 
 <!--
 **em1382/em1382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
